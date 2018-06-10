@@ -1,0 +1,6 @@
+#include "sun8i-h3-nanopi-neo.dts"
+
+&codec {
+ status = "disabled";
+};
+ 
